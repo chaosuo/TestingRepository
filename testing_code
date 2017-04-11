@@ -1,0 +1,4 @@
+# testing new file
+for i in `cat ID.txt`
+do echo $i
+done
